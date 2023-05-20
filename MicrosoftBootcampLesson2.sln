@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "At", "At\At.csproj", "{47F8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SizeOf", "SizeOf\SizeOf.csproj", "{B87DFDDE-7077-48B2-84BA-E56576D34882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackHeap", "StackHeap\StackHeap.csproj", "{4A39F849-C52A-4027-86DB-954508CB1B38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackHeap", "StackHeap\StackHeap.csproj", "{4A39F849-C52A-4027-86DB-954508CB1B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringStringBulder", "StringStringBulder\StringStringBulder.csproj", "{601490B4-EA75-49ED-9488-E42B2A85714A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{4A39F849-C52A-4027-86DB-954508CB1B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A39F849-C52A-4027-86DB-954508CB1B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A39F849-C52A-4027-86DB-954508CB1B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601490B4-EA75-49ED-9488-E42B2A85714A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601490B4-EA75-49ED-9488-E42B2A85714A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601490B4-EA75-49ED-9488-E42B2A85714A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601490B4-EA75-49ED-9488-E42B2A85714A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

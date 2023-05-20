@@ -1,5 +1,7 @@
 ﻿//int a = 1;
 
+using System.Text;
+
 int b = 6;
 
 
@@ -27,4 +29,5 @@ secontArr[0] = 0;
 Console.WriteLine($"First Arrays first value is {firstArr[0]}");
 Console.WriteLine($"Second Arrays first value is {secontArr[0]}");
 Console.ReadLine();
+
 
